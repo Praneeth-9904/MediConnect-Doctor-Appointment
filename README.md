@@ -135,30 +135,6 @@ Your application is now running! The frontend is accessible at `http://localhost
 
 ---
 
-## 📁 Folder Structure
-
-A high-level overview of the project's structure.
-.
-├── 📂 backend/         # Express.js Server
-│   ├── 📂 controllers/
-│   ├── 📂 models/
-│   ├── 📂 routes/
-│   └── 📄 server.js
-├── 📂 client/          # React.js Application
-│   ├── 📂 public/
-│   └── 📂 src/
-│       ├── 📂 assets/
-│       ├── 📂 components/
-│       ├── 📂 pages/
-│       ├── 📄 App.js
-│       └── 📄 index.js
-├── 📄 .gitignore
-├── 📄 LICENSE
-└── 📄 README.md
-
-
----
-
 ## 🤝 Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
