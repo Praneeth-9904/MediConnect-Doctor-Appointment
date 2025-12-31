@@ -158,6 +158,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 **P.V. Srinag**
+**Praneeth Bulusu**
 
 -   GitHub: [@p-v-srinag](https://github.com/p-v-srinag)
+-   GitHub: [@Praneeth Bulusu](https://github.com/Praneeth-9904)
 -   Project Link: [https://github.com/p-v-srinag/MediConnect-Doctor-Appointment](https://github.com/p-v-srinag/MediConnect-Doctor-Appointment)
